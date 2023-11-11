@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(209, 72, 72);
+}
+
+.header_div{
+    background: rgba(255, 251, 15, 0.82);
+    color: rgb(255, 163, 5);
+}
+
+.header_div p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 255, 26);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(127, 157, 255);
+    bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: cornflowerblue;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(0, 0, 255);
+}
